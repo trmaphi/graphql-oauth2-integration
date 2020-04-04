@@ -1,0 +1,24 @@
+{
+  "name": "graphql-oauth2-integration",
+  "version": "0.0.1-demo",
+  "description": "GraphQL OAuth2 Integration demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trmaphi/graphql-oauth2-integration.git"
+  },
+  "author": "Truong Ma Phi <trmaphi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trmaphi/graphql-oauth2-integration/issues"
+  },
+  "homepage": "https://github.com/trmaphi/graphql-oauth2-integration#readme",
+  "dependencies": {
+    "apollo-server-express": "^2.11.0",
+    "graphql": "^15.0.0",
+    "nodemon": "^2.0.2"
+  }
+}
