@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/trmaphi/graphql-oauth2-integration#readme",
   "dependencies": {
-    "apollo-server-express": "^2.11.0",
+    "apollo-server-express": "^2.14.2",
     "graphql": "^15.0.0",
     "nodemon": "^2.0.2"
   }
